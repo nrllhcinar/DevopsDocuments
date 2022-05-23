@@ -1,2 +1,2 @@
 # DevopsDocuments
-Documents about the DevOps
+Documents about the whole DevOps process
